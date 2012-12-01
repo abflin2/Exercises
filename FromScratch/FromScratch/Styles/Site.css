@@ -1,0 +1,64 @@
+﻿body
+{
+    background-color: #5c87b2;
+    color: #696969;
+	margin-bottom: 597px;
+}
+h1
+{
+    color: #ffffff;
+}
+h2
+{
+    border-bottom: 3px solid #cc9900;
+    color: #996600;
+	width: 179px;
+	display:inline;
+}
+#main
+{
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 0px 4px 4px 4px;
+}
+
+.bannerPic
+{
+	height:10em;
+	width:10em;
+	display:inline;
+}
+
+.banner
+{
+	background-color:Fuchsia;
+	width:90%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	color: #00FFFF;
+	font-size: x-large;
+	font-family: "Agency FB";
+}
+
+#page_title
+{
+	display:inline;
+	color: Black;
+	font-size:large;
+	font-family:@Batang;
+}
+
+#malesingerblock
+{
+	top:0;
+	display:inline-block;
+	margin-top: 0px;
+}
+
+#femalesingerblock
+{
+	top:0;
+	display:inline-block;
+	
+}
